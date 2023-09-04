@@ -11,6 +11,7 @@ $(" #first .owl-carousel").owlCarousel({
 $(" #secound .owl-carousel").owlCarousel({
     loop: true,
     autoplay: true,
+    margin:30,
     autoplayTimeout: 5000,
     smartSpeed:1200,
     responsiveClass:true,
